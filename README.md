@@ -1,5 +1,5 @@
 
-# Welcome to My GitHub! 👋
+# Nicholas 'Alex' Meert
 
 ## About Me  
 Hello! I'm Alex, a passionate developer and problem solver currently studying **Computer Science** with a focus in **Game Development and Simulation** at **Florida Polytechnic University**. I enjoy building innovative projects, especially in **web development**, **software development**, and **game development**. I'm also highly interested in **artificial intelligence** and **machine learning**, and I’m excited about the potential these technologies have to shape the future.
