@@ -35,24 +35,6 @@ I am passionate about:
 - **Game Development**: Creating interactive games using game engines like Unity and Unreal.  
 - **Artificial Intelligence & Machine Learning**: Exploring AI-driven technologies and building machine learning models to solve complex problems.
 
-## 🌟 Current Projects  
-
-- **Statify: Spotify User Statistic App** | *Python, Flask, Spotify API, JavaScript, HTML, CSS*  
-  *August 2024 – September 2024*  
-  • Developed a full-stack web application to analyze user listening patterns, with filtering options for different time frames  
-  • Designed a responsive front-end to visualize user listening statistics  
-  • Integrated OAuth for secure user authentication
-
-- **Spoiler-Free Sports Chrome Extension** | *JavaScript, HTML, CSS, YouTube API*  
-  *June 2024 – Present*  
-  • Chrome extension to prevent YouTube spoilers by blurring video thumbnails and altering titles  
-  • Users can tailor spoiler-blocking criteria for specific sports, teams, or keywords  
-
-- **FeelSync Mental Health Tracker** | *JavaScript, React, Node.js, Flask, SQLite*  
-  *August 2024 – Present*  
-  • Mental health tracking app allowing users to log moods and review emotional trends  
-  • Real-time notifications and reminders to engage users with mood logging and trend tracking
-
 ## 📫 Let's Connect  
 - **Email**: nicholasameert@gmail.com  
 - **LinkedIn**: [linkedin.com/in/alexmeert](https://linkedin.com/in/alexmeert)
