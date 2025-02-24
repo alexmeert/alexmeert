@@ -14,19 +14,6 @@ Hello! I'm Alex, a passionate developer and problem solver currently studying **
 *Florida Polytechnic University* | Expected Graduation: May 2026  
 Focus: **Game Development and Simulation**
 
-### Relevant Coursework:  
-- Algorithm Design  
-- Machine Learning  
-- Computer Animation  
-- Systems Analysis & Design  
-- Data Structures (C++)  
-- Database 1 (MySQL)  
-- Discrete Math  
-- Computational Linear Algebra  
-- Computer Science Problem Solving (Python)  
-- Object Oriented Programming (C++)  
-- Introduction to Computation and Programming (C)
-
 ## 🌱 Interests in Computer Science  
 I am passionate about:
 
