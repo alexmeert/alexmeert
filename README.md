@@ -6,8 +6,8 @@ Hello! I'm Alex, a passionate developer and problem solver currently studying **
 
 ## Skills & Tools  
 **Programming/Scripting Languages**: Python, C++, JavaScript, HTML, CSS, MySQL, C, C#
-**Frameworks**: Flask, .NET, React, Node.js  
-**Development Tools**: VS Code, PyCharm, DataGrip, Google Colab, Microsoft Excel, Maya, Unity, Blender, Asana, Git, Firebase
+**Frameworks**: Flask, React
+**Development Tools**: VS Code, PyCharm, DataGrip, Google Colab, Microsoft Excel, Maya, Unity, Godot, Blender, Asana, Jira, Git, Firebase
 
 ## Education  
 **Bachelor of Science in Computer Science**  
@@ -17,9 +17,9 @@ Focus: **Game Development and Simulation**
 ## Interests in Computer Science  
 I am passionate about:
 
-- **Web Development**: Building responsive, full-stack applications using modern frameworks.  
-- **Software Development**: Developing efficient, scalable software solutions.  
-- **Game Development**: Creating interactive games using game engines like Unity and Unreal.  
+- **Web Development**: Building responsive, full-stack applications using modern frameworks
+- **Software Development**: Developing efficient, innovative, and scalable software solutions
+- **Game Development**: Creating interactive games using game engines like Unity and Godot  
 
 ## Let's Connect  
 - **Email**: nicholasameert@gmail.com  
