@@ -6,8 +6,7 @@ Hello! I'm Alex, a passionate developer and problem solver currently studying **
 
 ## Skills & Tools  
 **Programming/Scripting Languages**: Python, C++, JavaScript, HTML, CSS, MySQL, C, C#
-**Frameworks**: Flask, React
-**Development Tools**: VS Code, PyCharm, DataGrip, Google Colab, Microsoft Excel, Maya, Unity, Godot, Blender, Asana, Jira, Git, Firebase
+**Development Tools**: VS Code, PyCharm, DataGrip, Google Colab, Microsoft Excel, Maya, Unity, Godot
 
 ## Education  
 **Bachelor of Science in Computer Science**  
